@@ -1,0 +1,3 @@
+main.plugins.showPassLE.enabled = true
+main.plugins.showPassLE.pos_x = 0
+main.plugins.showPassLE.pos_y = 95
