@@ -51,4 +51,4 @@ class DisplayPassword(plugins.Plugin):
             # For exception errors such as file not found, permission issues
             last_line = f'Error: {str(e)}'
         
-        ui.set('display-password', last_line)
+        ui.set('showPassLE', last_line)
