@@ -19,7 +19,7 @@ import os
 
 class DisplayPassword(plugins.Plugin):
     __author__ = '@usernameLeon27'
-    __version__ = '1.0.1'
+    __version__ = '1.0.2'
     __license__ = 'GPL3'
     __description__ = 'A plugin to display most recent cracked passwords'
 
@@ -38,7 +38,7 @@ class DisplayPassword(plugins.Plugin):
             ui.remove_element('showPassLE')
 
     def on_ui_update(self, ui):
-        path = '/root/handshakes/wpa-sec.cracked.potfile'
+        path = '/home/pi/handshakes/wpa-sec.cracked.potfile'
         try:
             # Reads the last line of the potfile
             last_line = os.popen(f'tail -n 1 {path} | awk -F: \'{{print $3 " - " $4}}\'').read().rstrip()
