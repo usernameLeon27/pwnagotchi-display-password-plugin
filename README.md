@@ -13,7 +13,7 @@ Displays the most recent cracked password on the Pwnagotchi display. It currentl
 ```
 main.plugins.showPassLE.enabled = true
 main.plugins.showPassLE.pos_x = 0
-main.plugins.showPassLE.pos_y = 95
+main.plugins.showPassLE.pos_y = 96
 ```
 Once the above steps are completed, reboot the Pwnagotchi to ensure all changes are applied.
 
@@ -28,7 +28,7 @@ I prefer to install plugins a different way, heres how I do it
 ```
 main.plugins.showPassLE.enabled = true
 main.plugins.showPassLE.pos_x = 0
-main.plugins.showPassLE.pos_y = 95
+main.plugins.showPassLE.pos_y = 96
 ```
 
 1. type `pwnkill` to reboot and the plugin should work!
