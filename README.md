@@ -31,7 +31,8 @@ main.plugins.showPassLE.pos_y = 96
 
 # Common Display Coordinates
 
-THESE COORDINATES MAY OR MAY NOT BE ACCURATE 
+THESE COORDINATES MAY OR MAY NOT BE ACCURATE.
+
 These are the coordinates in the original code, I only tested on a waveshare_v4 on [jayofelony's image](https://github.com/jayofelony/pwnagotchi). Results may vary.
 
 | Display Model  | Coordinates (x, y) |
@@ -45,7 +46,14 @@ These are the coordinates in the original code, I only tested on a waveshare_v4 
 
 # Screenshots:
 
-![pwnyCrackReal.jpg](/pwnyCrackReal.jpg?raw=true "showPassLE.py")
-![pwnyCrack.png](/pwnyCrack.png?raw=true "showPassLE.py")
-![pwnyNoCrackReal.jpg](/pwnyNoCrackReal.jpg?raw=true "showPassLE.py")
-![pwnyNoCrack.png](/pwnyNoCrack.png?raw=true "showPassLE.py")
+**Network name** - ***Password***
+
+**DESKTOP-0N3H3J4 2624** - ***testtest***
+
+| Cracked | Nothing Cracked |
+| ------- | --------------- |
+| ![pwnyCrackReal.jpg](/pwnyCrackReal.jpg?raw=true  "showPassLE.py") | ![pwnyNoCrackReal.jpg](/pwnyNoCrackReal.jpg?raw=true "showPassLE.py") |
+| ![pwnyCrack.png](/pwnyCrack.png?raw=true "showPassLE.py") | ![pwnyNoCrack.png](/pwnyNoCrack.png?raw=true "showPassLE.py") |
+
+
+
