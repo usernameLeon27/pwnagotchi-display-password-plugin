@@ -37,7 +37,7 @@ These are the coordinates in the original code, I only tested on a waveshare_v4 
 
 | Display Model  | Coordinates (x, y) |
 | ------------- | ------------- |
-| waveshare_v1, waveshare_v2, waveshare_v3(), waveshare_v4  | (0, 96)  |
+| waveshare_v1, waveshare_v2, waveshare_v3, waveshare_v4  | (0, 96)  |
 | waveshare144lcd  | (0, 92)  |
 | inky  | (0, 83)  |
 | waveshare2in7  | (0, 153)  |
