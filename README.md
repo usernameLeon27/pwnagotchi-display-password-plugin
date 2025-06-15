@@ -52,8 +52,8 @@ These are the coordinates in the original code, I only tested on a waveshare_v4 
 
 | Cracked | Nothing Cracked |
 | ------- | --------------- |
-| ![pwnyCrackReal.jpg](/pwnyCrackReal.jpg?raw=true  "showPassLE.py") | ![pwnyNoCrackReal.jpg](/pwnyNoCrackReal.jpg?raw=true "showPassLE.py") |
-| ![pwnyCrack.png](/pwnyCrack.png?raw=true "showPassLE.py") | ![pwnyNoCrack.png](/pwnyNoCrack.png?raw=true "showPassLE.py") |
+| ![pwnyCrackReal.jpg](images/pwnyCrackReal.jpg?raw=true  "showPassLE.py") | ![pwnyNoCrackReal.jpg](images/pwnyNoCrackReal.jpg?raw=true "showPassLE.py") |
+| ![pwnyCrack.png](images/pwnyCrack.png?raw=true "showPassLE.py") | ![pwnyNoCrack.png](images/pwnyNoCrack.png?raw=true "showPassLE.py") |
 
 
 
